@@ -1,7 +1,5 @@
 # SKED-AVP
 
-# SKED-AVP
-
 ## Prediction of Antiviral Peptides
 
 The peptides possessing the potential to inhibit viral infection are considered antiviral peptides (AVPs). Usually, AVPs exert antiviral effects by blocking viral entry, replication, or virus–host interactions. Although experimental approaches can identify AVPs, they are generally time-consuming, laborious, and costly. Therefore, accurate computational tools are urgently needed to accelerate the discovery of antiviral peptides.
